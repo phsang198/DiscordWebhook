@@ -1,0 +1,11 @@
+{
+    "bots" : [ 
+        {
+            "name": "WFBot",
+            "key": ""
+        }
+    ],
+    "endpoints" : [
+        "https://gisonline.vietbando.vn/api/v2/workflow/token/execute/461367dd-630e-4608-b3bd-e3b423dda363/async"
+    ]
+}
